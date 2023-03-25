@@ -46,7 +46,7 @@ Credit goes to SnesLover22 for creating the art.
 
 ## Links/Issues
 ### These are links regarding EaglercraftY.
-Discord server: coming soon!
+Discord server: https://discord.gg/3wNMVgjMzD
 <br>
 Official website: (coming soon)
 
