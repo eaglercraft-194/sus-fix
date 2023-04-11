@@ -1,3 +1,6 @@
+### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also fuck lfierro.
+
+
 # EaglercraftY (WIP)
 This is a project based on LAX1DUDE's EaglercraftX project.
 <br>
