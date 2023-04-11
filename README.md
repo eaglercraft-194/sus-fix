@@ -1,7 +1,7 @@
 ### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also fuck lfierro.
 
 
-# EaglercraftY (WIP)
+# Eaglercraft 1.9.4 (attempt #69)
 This is a project based on LAX1DUDE's EaglercraftX project.
 <br>
 This time, this will actually be a decent project. Not a hoax, not a fake claim.
@@ -48,7 +48,7 @@ Credit goes to SnesLover22 for creating the art.
 
 
 ## Links/Issues
-### These are links regarding EaglercraftY.
+### These are links regarding the project.
 Discord server: https://discord.gg/3wNMVgjMzD
 <br>
 Official website: (coming soon)
