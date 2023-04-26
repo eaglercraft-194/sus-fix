@@ -1,7 +1,7 @@
 ### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also curse lfierro.
-
+#### DarvelCraft is a codename for right now, until the final release.
 # what is Darvelcraft?
-Darvelcraft is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft [for 1.5.2 and 1.8.8] (where you can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy and modified software).
+Darvelcraft [the project's codename] is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft [for 1.5.2 and 1.8.8] (where you can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy and modified software).
 
 # what about server(s)?
 sorry, currently we do not have the server software. we are studying the source of [ayunami](https://shhnowisnottheti.me)[20](https://github.com/ayunami2000)[00](https://replit.com/@ayunami2000)'s server software he made for Eaglercraft 1.5.2 and EaglercraftX (1.8.8) to get a better grasp of how to make the *S.S.* for Darvelcraft.
@@ -25,7 +25,7 @@ Scheduled Release Date: Don't Know
 
 
 ### Mockup
-Credit goes to SnesLover22 for creating the art.
+Credit goes to SnesLover22 for creating the art. This is not final and we will NOT use the eaglercraftY name during the final release
 ![moest epic art](https://raw.githubusercontent.com/eaglercraftY-194/blooket-fix/main/assets/images/Screenshot%202023-03-20%20162811.png "SnesLover22 for moest epic Photoshopping")
 
 </div>
