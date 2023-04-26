@@ -2,7 +2,7 @@
 
 # what is Darvelcraft?
 Darvelcraft is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft [for 1.5.2 and 1.8.8] (where you can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy and modified software).
-.
+
 # what about server(s)?
 sorry, currently we do not have the server software. we are studying the source of [ayunami](https://shhnowisnottheti.me)[20](https://github.com/ayunami2000)[00](https://replit.com/@ayunami2000)'s server software he made for Eaglercraft 1.5.2 and EaglercraftX (1.8.8) to get a better grasp of how to make the *S.S.* for Darvelcraft.
 <br>
