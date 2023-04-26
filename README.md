@@ -1,4 +1,4 @@
-### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also fuck lfierro.
+### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also curse lfierro.
 
 # what is Darvelcraft?
 Darvelcraft is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft [for 1.5.2 and 1.8.8] (where you can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy and modified software).
