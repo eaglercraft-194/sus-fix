@@ -1,8 +1,13 @@
 ### as most of the devs (including me) only know small patches of coding, this may never release. currently it is a entire rip of eaglercraft 1.8. we will be replacing this soon. also fuck lfierro.
 
 # what is Darvelcraft?
-Darvelcraft is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft (for 1.5.2 and 1.8.8). ~~that lets you play the popular voxel game on any device, including school chromebooks~~. You can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy. ~~Eaglercraft is based on Minecraft Beta 1.3 and Minecraft 1.5.2, and uses TeaVM and LAX1DUDE’s OpenGL emulator to run a Java virtual machine fully compatible with Minecraft. Eaglercraft also has a Discord server where you can chat with other fans and get updates on the latest versions.~~
-
+Darvelcraft is Minecraft 1.9.4 in the browser, based on Eaglercraft, which is also a browser-based version of Minecraft [for 1.5.2 and 1.8.8] (where you can enjoy both singleplayer and multiplayer modes, and join real Minecraft servers through a custom proxy and modified software).
+.
+# what about server(s)?
+sorry, currently we do not have the server software. we are studying the source of [ayunami](https://shhnowisnottheti.me)[20](https://github.com/ayunami2000)[00](https://replit.com/@ayunami2000)'s server software he made for Eaglercraft 1.5.2 and EaglercraftX (1.8.8) to get a better grasp of how to make the *S.S.* for Darvelcraft.
+<br>
+Replit sucks when you want extremely fast servers and 24/7 uptime.
+<br>
 # Darvelcraft ~~Eaglercraft 1.9.4~~
 This is a project based on LAX1DUDE's EaglercraftX project.
 <br>
