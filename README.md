@@ -25,7 +25,7 @@ Scheduled Release Date: Don't Know
 
 
 ### Mockup
-Credit goes to SnesLover22 for creating the art. This is not final and we will NOT use the eaglercraftY name during the final release
+Credit goes to SnesLover22 for creating the art. This is not final and we will NOT use the eaglercraftY name during the final release due to Mr. Stupid 9-Year Old, aka lfierro.
 ![moest epic art](https://raw.githubusercontent.com/eaglercraftY-194/blooket-fix/main/assets/images/Screenshot%202023-03-20%20162811.png "SnesLover22 for moest epic Photoshopping")
 
 </div>
