@@ -1,1 +1,1 @@
-##### This repo will be screwed for now.
+##### I am not developing this because I have no Java knowledge.
