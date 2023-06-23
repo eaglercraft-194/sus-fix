@@ -57,7 +57,7 @@ Credit goes to SnesLover22 for creating the art. This is not final and we will N
 
 ## Links/Issues
 ### These are links regarding the project.
-Discord server: https://discord.gg/3wNMVgjMzD
+Discord server: nuked by a mojang employee and someone's moronic friend
 <br>
 Official website: (coming soon)
 
