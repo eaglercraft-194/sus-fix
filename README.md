@@ -1,1 +1,1 @@
-##### I am not developing this because I have no Java knowledge.
+##### ok going to actually try learn java 
