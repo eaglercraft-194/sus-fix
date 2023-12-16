@@ -1,1 +1,2 @@
-##### ok going to actually try learn java 
+### this is discontinued.
+#### for more info, join the Discord -> [link here]
