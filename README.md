@@ -1,2 +1,2 @@
 ### this is discontinued.
-#### for more info, join the Discord -> [link here]
+#### for more info, join the unofficial Discord -> [the Discord](https://discord.gg/BP4G6rEGdb)
